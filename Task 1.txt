@@ -1,0 +1,16 @@
+1.Write a blog on difference between document & windows object 
+
+Document object refers to the process of convertng given html file into tree like structure and helps to display as user readable for from binary to characters, on the other hand windows
+object refers to the window in which document object file present.
+
+2.Write a blog about objects and its internal representation in Javascript.
+
+Objects, in JavaScript, are the most important data type and form the building blocks for modern JavaScript. These objects are quite different from JavaScript’s primitive 
+data types (Number, String, Boolean, null, undefined, and symbol) in the sense that these primitive data types all store a single value each (depending on their types).
+
+syntax:
+
+let object_name = {
+    key_name : value,
+    ...
+}
